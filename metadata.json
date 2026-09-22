@@ -1,0 +1,6 @@
+{
+  "name": "AI BlogNest",
+  "description": "Full-stack AI-powered blog management and content generation platform with role-based access, Gemini AI, and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
